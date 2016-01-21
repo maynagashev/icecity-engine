@@ -41,7 +41,8 @@
 17/10/2010 mister: m_vote
 28/10/2010 abakan24: m_rsssource, m_rssitem, m_rsspattern
 
-http://bit.ly/d0xNtP
-#dblock(blogposts,10)#
 
-728 х 90
+21/01/2016 created git repository
+
+
+
