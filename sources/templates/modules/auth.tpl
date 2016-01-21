@@ -1,0 +1,1 @@
+<div align="center" style='margin:20px;'>{include file='parts/admin_login.tpl'}</div>

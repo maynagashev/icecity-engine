@@ -1,0 +1,1 @@
+{include file="modules/`$sv->act`.tpl"}

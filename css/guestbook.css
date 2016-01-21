@@ -1,0 +1,36 @@
+.guestbook {
+  margin: 10px 0;
+  padding: 0 20px; 
+}
+.guestbook .date {
+  border-top: 1px solid #cccccc;
+  padding: 13px 0 0 0px;
+  color:gray;
+  font-size:95%;
+}
+
+.guestbook .name {
+  font-weight:bolder;
+  color: #339966;
+}
+.guestbook .text {
+ 
+}
+
+.guestbook .pagelist {
+  margin: 10px 0;
+}
+
+.guestbook .code { 
+  border: 1px dashed gray; 
+  padding: 5px 10px;
+}
+.guestbook pre {
+ font-size: 120%;  
+}
+.guestbook blockquote {
+  margin: 10px 0 10px 20px;
+  padding: 5px 10px;
+  border: 1px solid gray;
+  background-color: #efefef;
+}

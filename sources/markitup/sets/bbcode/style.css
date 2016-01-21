@@ -1,0 +1,44 @@
+
+.markItUp .btn-b a	{
+	background-image:url(images/bold.png);
+}
+.markItUp .btn-i a	{
+	background-image:url(images/italic.png);
+}
+.markItUp .btn-u a	{
+	background-image:url(images/underline.png);
+}
+
+.markItUp .btn-picture a	{
+	background-image:url(images/picture.png);
+}
+.markItUp .btn-link a	{
+	background-image:url(images/link.png);
+}
+
+.markItUp .btn-size a	{
+	background-image:url(images/fonts.png);
+}
+.markItUp .btn-bul-list a	{
+	background-image:url(images/list-bullet.png);
+}
+.markItUp .btn-num-list a	{
+	background-image:url(images/list-numeric.png);
+}
+.markItUp .btn-list-item a	{
+	background-image:url(images/list-item.png);
+}
+
+.markItUp .btn-quotes a	{
+	background-image:url(images/quotes.png);
+}
+.markItUp .btn-code a	{
+	background-image:url(images/code.png);
+}
+	
+.markItUp .clean a {
+	background-image:url(images/clean.png);
+}
+.markItUp .preview a {
+	background-image:url(images/preview.png);
+}

@@ -1,0 +1,1 @@
+{include file='forum/act_index.tpl'}

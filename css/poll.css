@@ -1,0 +1,108 @@
+#polls {
+  padding: 5px 20px;
+
+}
+
+.poll {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #339966;
+ 
+}
+
+.poll .date {
+  margin: 0 0 10px 0;
+}
+.poll div.date {
+ 
+  background-color: #efefef;
+  color:black;
+  padding: 3px 5px;
+  font-weight: bolder;
+}
+
+.poll .poll-td {
+
+padding-left: 20px;
+}
+
+.poll .question {
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+
+.poll .poll-itog {
+  border-top: 1px solid #cccccc;
+  margin: 5px 0 10px 0;
+  padding: 5px 0 ;
+
+}
+
+.poll  .progress {
+  background-color: #82CA9C;
+  height: 5px;
+  width: 0px;
+}
+
+.poll .result-row {
+  margin: 0 0 5px 0;
+}
+
+.poll .res-td {
+  padding-left:10px;
+}
+
+
+
+#active-poll {
+  padding: 0 2px 0px 2px;
+}
+#active-poll .question {
+  padding-bottom: 10px;
+}
+
+#active-poll .choices {
+  margin: 0 0 10px 0;
+}
+#active-poll .choice {  
+  background : url(/i/select_bg.gif) no-repeat;  
+}
+#active-poll .choice span {  
+  padding: 0px 5px; 
+}
+
+#active-poll #msg {
+  padding: 5px;
+  margin: 5px;
+  text-align:center;
+}
+#active-poll .green {
+  background-color: green;
+  color: white;
+}
+#active-poll .red {
+  background-color: red;
+  color: white;
+}
+#active-poll #inputs {
+  padding: 10px 5px 15px 0;
+  text-align:center;
+}
+
+#active-poll .results {
+  margin: 0 0 10px 0;
+}
+#active-poll .result-row {
+  margin: 0 0 5px 0;
+}
+#active-poll .progress {
+  background-color: #82CA9C;
+  height: 5px;
+  width: 0px;
+}
+
+#active-poll #wait td {
+  text-align: center;
+  font-size: 95%;
+  color: #cccccc;
+  
+}

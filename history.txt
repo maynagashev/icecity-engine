@@ -1,0 +1,47 @@
+
+11/04/2010 m_serv Неплохая новая модель простых текстовых статей с одной картинкой, поиском, slug  статусом
+12/04/2010 m_tcat древовидная категори
+17/04/2010 m_vent 
+18/04/2010 m_brand неплохая копия  m_Serv
+18/04/2010 m_recom рекомендуемый товар в сезоне msk-instrument
+23/04/2010 m_part для статичных разделов тексты описалово
+28/04/2010 m_callback перезвоните мне: имя, телефон, время звонка
+28/04/2010 m_blank пустой
+27/05/2010 m_region tree 2
+02/08/2010 m_ventfilecat названия кнопок для файлов, тайтл + сортировка torgvent
+02/08/2010 m_ventfile файлы по кнопкам (категориям) torgvent 
+02/08/2010 публичный модуль download который передает управление контроллеру c_download указанной модели
+03/08/2010 m_recomtovar рекомендуемый товар на странице товара msk-instrument (похожа на m_recom, отличие в том что она зависима родительских обхектов)
+20/08/2010 !!! v.2.4 !!! настройки меню и вообще почти все перменные из class_sv перенесены в отдельные файлы /sources/config/config.php и tables.php отделяем функции от перменных
+20/08/2010 добавлена новая константа define("CONFIG_DIR",  SOURCES_DIR."config/");
+20/08/2010 добавлен вызов parts/admin_top.tpl в admin.tpl
+20/08/2010 новая константа define("ADMIN_DIR", PUBLIC_DIR.'admin/');
+05/09/2010 запись в блоге m_blogpost
+06/09/2010 m_trustemail
+06/09/2010 X переделан m_comment в сторону отвязки от учеткиЮ добавлен емайл и апрув
+07/09/2010 cron/modules/notify.php  раз в 15 мин? напртимер модераци и тд
+07/09/2010 новая константа временной сдвиг для всех скриптов define("TIME_SHIFT", 60*60*4);
+07/09/2010 в конфиг новые параметры notify_email & last_notify
+07/09/2010 modules/commentsedit + шаблон для модерации
+08/09/2010 dblocks/cache_content.php & cron/modules/li_rating.php
+09/09/2010 m_feed.php модель рсс фидов, модуль feed.php?id=1 вызывающий model->compile_feed($id = 0), таблица rss_feeds, scaffold модуль - feededit
+14/09/2010 m_feed.php доработаны поля и добавлена картинка абакан24
+16/09/2010 dblocks/last_comments  с парамтром лимит
+10/09/2010 m_sitecat / table:  sites_cats / edit: sitecatedit / 
+24/09/2010 вспомнил про m_daystat вполне рабочий + dblocks/top_site_goto.php
+24/09/2010 dblocks/last_sites.php без парамтеров
+24/09/2010 m_comment добавлен $sv->m['comment']->object_title_field = 'p_title';
+24/09/2010 maina.ru изменен m_daystat
+26/09/2010 class_view, m_page, modules/page.tpl, templates/modules/pages.tpl, templates/modules/page.tpl изменения для комментариев и для модуля корневой root_url исправлен
+03/10/2010 m_bimage, table: bimages, adminmodule bimages
+03/10/2010 TMP_DIR по умолчанию выше паблика
+04/10/2010 r19top: m_developer, table: developers, admin module: developeredit, public module: developers
+06/10/2010 r19top m_person переработано под каталог сайтов
+14/10/2010 mister: m_competitor.php, table: competitors
+17/10/2010 mister: m_vote
+28/10/2010 abakan24: m_rsssource, m_rssitem, m_rsspattern
+
+http://bit.ly/d0xNtP
+#dblock(blogposts,10)#
+
+728 х 90
